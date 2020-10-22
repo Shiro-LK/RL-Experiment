@@ -11,5 +11,13 @@ The Bellman Equations are :
 
 0 - Value Iteration and policy iteration : [0-ValueIteration-PolicyIteration](0-ValueIteration-PolicyIteration.ipynb)
 
-1- Monte Carlo : [1-Model-free-MonteCarlo](1-Model-free-MonteCarlo.ipynb)
+1- Monte Carlo with MoutainCar : [1-Model-free-MonteCarlo](1-Model-free-MonteCarlo.ipynb)
 ![MountainCar with Monte Carlo](gif/monte_carlo_moutaincar.gif)
+
+2 - SARSA and Q-Learning Cartpole-v0 :[2-Model-free-Cartpole-SARSA-QLearning](2-Model-free-Cartpole-SARSA-QLearning.ipynb)
+![Q-Learning_CartPole](gif/qlearning_cartpole.gif)
+
+3 - DQN Cartpole-v0 : [3-Model-free-Cartpole-Deep-QLearning(DQN)](3-Model-free-Cartpole-Deep-QLearning(DQN).ipynb)
+![DQN CartPole](gif/DQN_cartpole.gif)
+
+4- Double DQN : ongoing
