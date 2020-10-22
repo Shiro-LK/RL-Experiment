@@ -1,6 +1,6 @@
 # RL-Experiment
 Reproduce simple experiment with gym for RL algorithm. All these algorithms are based on the Bellman Equation where : 
-- $V^\pi(s)$ is the state-value function of MDP (Markov Decision Process). It's the expected return starting from state s following policy $\pi$. 
+- V^\pi(s) is the state-value function of MDP (Markov Decision Process). It's the expected return starting from state s following policy $\pi$. 
 - $Q^\pi(s)$ is the action-value function. It is the expected return starting from state s, following policy $\pi$, taking action $a$
 
 The Bellman Equations are : 
